@@ -26,7 +26,7 @@ start TFC.exe
 - Wait a second, DONE! <br />
 ![Screenshot](https://i.ibb.co/cFy1SGQ/gdaag.png)
 
-Also, you can save Excel table to change it in future: <br />
+**Also, you can save Excel table to change it in future:** <br />
 
 - Lets add more links to Accounts file <br />
 ![Screenshot](https://i.ibb.co/z5cVnqw/dsghfb.png)
