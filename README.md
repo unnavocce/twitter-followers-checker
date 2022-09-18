@@ -18,22 +18,22 @@ start TFC.exe
 ```
 ## Usage
 Launch the program, drop or paste file with twitter users links, as shown:
-![Screenshot](https://ibb.co/XyMMjQh)
+![Screenshot](https://i.ibb.co/PT00FL7/sfaf.png)
 ![Screenshot](https://i.ibb.co/4SMHr8j/Untitled.png)
 
 If it's your first time using program - type "n", this will create clear .csv file
-![Screenshot](https://ibb.co/M9QLNtf)
+![Screenshot](https://i.ibb.co/BwFRsQG/gnvvncbcb.png)
 
 Wait a second, DONE!
-![Screenshot](https://ibb.co/XsWbrht)
+![Screenshot](https://i.ibb.co/cFy1SGQ/gdaag.png)
 
 Also, you can save Excel table to change it in future:
 
 Lets add more links to Accounts file,
-![Screenshot](https://ibb.co/rtP27DJ)
+![Screenshot](https://i.ibb.co/z5cVnqw/dsghfb.png)
 
 upload it
-![Screenshot](https://ibb.co/vjSLtRc)
+![Screenshot](https://i.ibb.co/kStqdvG/cvbcsb.png)
 
 Aaaaand done!
-![Screenshot](https://ibb.co/w4H0YV5)
+![Screenshot](https://i.ibb.co/DQXVLh0/sdgdsgg.png)
