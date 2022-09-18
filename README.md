@@ -16,23 +16,23 @@ cd twitter-followers-checker
 start TFC.exe
 ```
 ## Usage
-Launch the program, drop or paste file with twitter users links, as shown: <br />
+- Launch the program, drop or paste file with twitter users links, as shown: <br />
 ![Screenshot](https://i.ibb.co/PT00FL7/sfaf.png)
 ![Screenshot](https://i.ibb.co/4SMHr8j/Untitled.png)
-__
-If it's your first time using program - type "n", this will create clear .csv file <br />
+
+- If it's your first time using program - type "n", this will create clear .csv file <br />
 ![Screenshot](https://i.ibb.co/BwFRsQG/gnvvncbcb.png)
-__
-Wait a second, DONE! <br />
+
+- Wait a second, DONE! <br />
 ![Screenshot](https://i.ibb.co/cFy1SGQ/gdaag.png)
-__
+
 Also, you can save Excel table to change it in future: <br />
-__
-Lets add more links to Accounts file, <br />
+
+- Lets add more links to Accounts file <br />
 ![Screenshot](https://i.ibb.co/z5cVnqw/dsghfb.png)
-__
-upload it <br />
+
+- Upload it <br />
 ![Screenshot](https://i.ibb.co/kStqdvG/cvbcsb.png)
-__
-Aaaaand done! <br />
+
+- Aaaaand done! <br />
 ![Screenshot](https://i.ibb.co/DQXVLh0/sdgdsgg.png)
