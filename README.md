@@ -4,7 +4,7 @@
 Fast console program to monitor EXACT follower counts, and export data to Excel using
 Twitter API and built-in Python3 libraries.
 
-
+<script src="https://cdn.jsdelivr.net/gh/virae/we-stand-with-ukraine@v1.0.2/badge.js" async></script>
 ## Run program
 
 Download and run **.exe** file from project resources
