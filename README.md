@@ -2,9 +2,10 @@
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
 ![anthus pratensis](https://quiz.natureid.no/bird/db_media/eBook/12ceccda64927752ddf694d8e43b4ce3ced19612.jpg) </br> </br>
+**STAND WITH UKRAINE**</br>
 Fast console program to monitor EXACT follower counts, and export data to Excel using
-Twitter API and built-in Python3 libraries </br>
-**STAND WITH UKRAINE**
+Twitter API and built-in Python3 libraries 
+
 
 ## Run program
 
