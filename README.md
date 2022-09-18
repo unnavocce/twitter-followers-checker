@@ -18,7 +18,7 @@ start TFC.exe
 ```
 ## Usage
 Launch the program, drop or paste file with twitter users links, as shown:
-![App Screenshot](https://ibb.co/XyMMjQh)
+![Screenshot](https://ibb.co/XyMMjQh)
 ![App Screenshot](https://ibb.co/B6j9Myg)
 
 If it's your first time using program - type "n", this will create clear .csv file
