@@ -29,7 +29,9 @@ def check_excel():
         main(b)
     elif a == "n":
         create_excel()
-
+    else:
+        print("Sorry, can't understand you")
+        check_excel()
 
 def create_excel():
     head = ["Nickname", "Followers", "Time"]
@@ -59,6 +61,5 @@ def main(excel_file):
 def completed():
     print("Data was saved, opening excel ...")
     os.system("start EXCEL.EXE Followers.csv")
-
 
 start()
