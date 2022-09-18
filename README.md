@@ -1,6 +1,6 @@
 # Twitter Followers Checker
-! STAND WITH UKRAINE
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+
 Fast console program to monitor EXACT follower counts, and export data to Excel using
 Twitter API and built-in Python3 libraries.
 
@@ -16,23 +16,12 @@ cd twitter-followers-checker
 start TFC.exe
 ```
 ## Usage
-- Launch the program, drop or paste file with twitter users links, as shown: <br />
-![Screenshot](https://i.ibb.co/PT00FL7/sfaf.png)
-![Screenshot](https://i.ibb.co/4SMHr8j/Untitled.png)
-
-- If it's your first time using program - type "n", this will create clear .csv file <br />
-![Screenshot](https://i.ibb.co/BwFRsQG/gnvvncbcb.png)
-
-- Wait a second, DONE! <br />
-![Screenshot](https://i.ibb.co/cFy1SGQ/gdaag.png)
+- Launch the program, drop or paste file with twitter users links (https://twitter.com/unnavocce), starting from new line
+- If it's your first time using program - type "n", this will create clear .csv file
+- Wait a second, done!
 
 **Also, you can save Excel table to change it in future:** <br />
 
-- Lets add more links to Accounts file <br />
-![Screenshot](https://i.ibb.co/z5cVnqw/dsghfb.png)
-
-- Upload it <br />
-![Screenshot](https://i.ibb.co/kStqdvG/cvbcsb.png)
-
-- Aaaaand done! <br />
-![Screenshot](https://i.ibb.co/DQXVLh0/sdgdsgg.png)
+- You can add more links to Accounts file
+- Upload it and type "y" to append to thgis file
+- Done, add as many accounts, as you want!
